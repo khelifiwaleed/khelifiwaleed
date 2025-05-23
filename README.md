@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm KHELIFI Walid, a Tunisian Web Developer 👋🏼:
+# Hello, I'm KHELIFI Walid, a Tunisian Web Developer 👋🏼:
 Experienced Web Developer, specialized in native PHP, MVC architecture, as well as development with Laravel and Symfony frameworks.
 Passionate about IT, I prioritize user experience, development quality, and teamwork.
 Beyond my development expertise, I integrate DevSecOps practices at every stage of the process to ensure the robustness and reliability of applications.
